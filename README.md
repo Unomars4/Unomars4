@@ -1,5 +1,4 @@
-Hi, I'm Une Nyide 👋
-
+...
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
